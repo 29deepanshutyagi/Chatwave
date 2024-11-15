@@ -1,0 +1,104 @@
+{
+  "chats": [
+    {
+      "chat_id": 10000,
+      "sender_details": {
+        "user_id": 100,
+        "profile_data": {
+          "first_name": "Rohit",
+          "last_name": "Sharma",
+          "profile_picture": "",
+          "headline": "",
+          "followers": "8787878"
+        }
+      },
+      "last_message": {
+        "id": "nq4ugn",
+        "content": "asdasd",
+        "created_at": "2024-07-12T17:37:03.215Z",
+        "status": "DELIVERED",
+        "read": "true"
+      }
+    },
+    {
+      "chat_id": 20000,
+      "sender_details": {
+        "user_id": 200,
+        "profile_data": {
+          "first_name": "Loco",
+          "last_name": "Plays",
+          "profile_picture": "",
+          "headline": "",
+          "followers": "8787878"
+        }
+      },
+      "last_message": {
+        "id": "ri965e",
+        "content": "asdasdasd",
+        "created_at": "2024-07-13T14:17:22.611Z",
+        "status": "DELIVERED",
+        "read": "true"
+      }
+    },
+    {
+      "chat_id": "652746",
+      "sender_details": {
+        "user_id": "508",
+        "profile_data": {
+          "first_name": "jw5u5k",
+          "last_name": "s3e4c5",
+          "profile_picture": "",
+          "headline": "",
+          "followers": "703275"
+        }
+      },
+      "last_message": {
+        "id": "",
+        "content": "",
+        "created_at": "",
+        "status": "DELIVERED",
+        "read": "false"
+      }
+    },
+    {
+      "chat_id": "844112",
+      "sender_details": {
+        "user_id": "992",
+        "profile_data": {
+          "first_name": "1p1t87",
+          "last_name": "po0rbk",
+          "profile_picture": "",
+          "headline": "",
+          "followers": "606071"
+        }
+      },
+      "last_message": {
+        "id": "",
+        "content": "",
+        "created_at": "",
+        "status": "DELIVERED",
+        "read": "true"
+      }
+    },
+    {
+      "chat_id": "383521",
+      "sender_details": {
+        "user_id": "868",
+        "profile_data": {
+          "first_name": "0ad6qf",
+          "last_name": "rhpwxc",
+          "profile_picture": "",
+          "headline": "",
+          "followers": "985568"
+        }
+      },
+      "last_message": {
+        "id": "",
+        "content": "",
+        "created_at": "",
+        "status": "DELIVERED",
+        "read": "false"
+      }
+    }
+  ]
+}
