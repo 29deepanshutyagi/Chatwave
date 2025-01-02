@@ -10,12 +10,14 @@ dotenv.config();
 
 const app = express();
 const server = http.createServer(app);
+
 const wss = new WebSocket.Server({ server });
 
 const PORT = process.env.PORT;
 const BASE_URL = process.env.BASE_URL;
 
 app.use(cors());
+
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
